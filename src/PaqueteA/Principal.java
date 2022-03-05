@@ -1,19 +1,11 @@
-//David Leitón Salas
-//GitHub
-
+//Andrés Villalobos
+//4-3-22
 package PaqueteA;
 
-/**
- *
- * @author DavidLS 
- */
 public class Principal {
-
-    /**
-     *  @param args the command line arguments
-     */
+    
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Hola");
     }
     
 }
